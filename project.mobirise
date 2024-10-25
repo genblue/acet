@@ -55,7 +55,9 @@
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "file:///Users/swid/code/genblue/acet"
   },
   "pages": {
     "index.html": {
